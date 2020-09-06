@@ -3,7 +3,7 @@ const {RichEmbed} = require('discord.js');
 const {Attachment} = require('discord.js');
 const bot = new Client();
 
-const token = 'NzE5NzA1NTc4NzYyNjY2MDA0.Xt7UDQ.s1itYnT98duo_5xMegNkHPGoDls';
+const token = 'NzE5NzA1NTc4NzYyNjY2MDA0.Xt7UDQ.cmyTV_i5JuAVohE7oiWsMfIHZ2g';
 
 bot.on("ready", async () =>{
     console.log(`Online.`);
